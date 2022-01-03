@@ -1,4 +1,4 @@
-# Gaurav_ORMandSpringMVCAssignmentSolution
+# Ramya_ORMandSpringMVCAssignmentSolution
 Graded Coding Assignment 5 for ORM and Spring MVC
 
 Please find the folloing screenshot of various operations (file names are self explanatory as well):
